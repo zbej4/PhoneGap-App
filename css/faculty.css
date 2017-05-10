@@ -1,0 +1,62 @@
+body {
+	background-color: #041E42;
+}
+
+.name {
+	color: #FFC72C;
+}
+.faculty {
+	border: 3px solid #FFC72C;
+	border-radius: 5px;
+	width: 95%;
+	display: block;
+	margin: auto;
+	padding: 5px 5px 0px 5px;
+	background-color: rgba(68, 68, 68, 0.8);
+	margin-bottom: 10px;
+}
+.pic {
+	padding: 5% 5% 5% 5%;
+	max-width: 125px;		
+	width: 70%;
+	border-radius: 20%;
+}
+.title {
+	width: 70%;
+	font-family: arial;
+	font-size: 4vw;
+}
+.imgCont {
+	width: 30%;
+}
+.cont {
+	display: flex;
+  padding-bottom: 5px;
+  width: 100%;
+}
+.job {
+	padding-left: 10%;
+	color: #FFC72C;
+	font-size: 15px;
+}
+.desc {
+	display: none;
+	padding-bottom: 5px;
+	color: #FFC72C;
+	padding: 5px 5px 5px 5px;
+}
+.carrot {
+	font-size: 50px;
+	font-weight: bold;
+	color: #FFC72C;
+	padding-right: 5%;
+	-webkit-transition-duration: 0.6s;
+    -moz-transition-duration: 0.6s;
+    -o-transition-duration: 0.6s;
+	transition-duration: 0.6s;
+}
+
+.edit {
+  margin-top: 95px !important;
+  padding: 0px !important;
+}

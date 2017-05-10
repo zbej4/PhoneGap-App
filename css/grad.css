@@ -1,0 +1,10 @@
+.portfolio-item img {
+	width: 50%;
+	margin: 0 auto;
+	border-radius: 25%;
+}
+
+.portfolio-item {
+	color: white;
+	padding-bottom: 25px;
+}

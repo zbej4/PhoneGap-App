@@ -1,0 +1,47 @@
+.intro-header {
+	margin-bottom: 50px;
+}
+
+.button {
+	color: #041E42;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #FFC72C;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttonName {
+	font-family: Arial;
+	font-size: 18px;
+	margin-top: -10px;
+	margin-bottom: -2px;
+	padding-top: 14px;
+    padding-bottom: 2px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.fa {
+	padding-top: 5px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.overlay {
+	width: 100%;
+	opacity: 1.0 !important;
+}
+
+.edit {
+	border-radius: 10px;
+	background-color: rgba(255,255,255,0.7) !important;
+	padding: 0px !important;
+	opacity: 1.0 !important;
+	margin-top: 3.5% !important;
+}
+
+.goat {
+	width: 70px;
+}
